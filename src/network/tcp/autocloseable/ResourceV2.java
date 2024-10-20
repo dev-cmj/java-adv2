@@ -23,6 +23,4 @@ public class ResourceV2 implements AutoCloseable {
         throw new CloseException(name + " ex");
     }
 
-
-
 }
